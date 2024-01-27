@@ -33,7 +33,7 @@ h1 {
   color: #fff;
   background: #ecd7e5;
 }
-.start_btn,
+
 .info_box,
 .quiz_box,
 .result_box {
@@ -61,7 +61,8 @@ h1 {
   border-radius: 5px;
   background: #fff;
   cursor: pointer;
-  top: 90%;
+  position: absolute;
+  top: 70%;
 }
 .info_box {
   width: 540px;
